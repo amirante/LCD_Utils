@@ -1,0 +1,12 @@
+LCD_Display	KEYWORD1
+clear	KEYWORD2
+position	KEYWORD2
+backlightOn	KEYWORD2
+backlightOff	KEYWORD2
+selectLineOne	KEYWORD2
+selectLineTwo	KEYWORD2
+shiftRight	KEYWORD2
+shiftLeft	KEYWORD2
+print	KEYWORD2
+attach	KEYWORD2
+
