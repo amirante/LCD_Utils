@@ -83,3 +83,8 @@ void LCD_Display::print(char *s)
 	_LCD->print(s);
 }
 
+void LCD_Display::print(int i)
+{
+	_LCD->print(i);
+}
+

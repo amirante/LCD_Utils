@@ -19,6 +19,7 @@ class LCD_Display
     void shiftRight();
     void shiftLeft();
     void print(char *s);
+    void print(int i);
     
   private:
   	void serCommand();
